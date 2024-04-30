@@ -1,0 +1,24 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+	  "express": "4.14.0"
+	},  
+	"main": "server.js",
+	"scripts": {
+	  "start": "node server.js"
+	},
+	"repository": {
+	  "type": "git",
+	  "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+	},
+	"description": "A project that does something awesome",
+	"bugs": {
+	  "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+	},
+	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
+	"version": "1.0.0",
+	"keywords": [ "freecodecamp", "backend", "api" ],
+	"author": "Donnie Lee",
+	"license": "ISC"
+  }
+  
